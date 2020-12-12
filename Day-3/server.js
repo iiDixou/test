@@ -47,4 +47,4 @@ if(message.author.bot) return;
  
  }) //All codes link in description
 
-client.login(token)
+client.login(NzgzMzQyODIzMDUxMjMxMjYy.X8ZW2g.roECHdZwMAq5eQJMyH_CFYVlFZ0)
