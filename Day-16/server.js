@@ -115,4 +115,4 @@ client.on("guildMemberAdd", member => {
   client.channels.cache.get(chx).send(wembed);
 });
 
-client.login(token);
+client.login(NzgzMzQyODIzMDUxMjMxMjYy.X8ZW2g.roECHdZwMAq5eQJMyH_CFYVlFZ0);
