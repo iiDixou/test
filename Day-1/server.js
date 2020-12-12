@@ -12,5 +12,5 @@ client.on("message", message => { //when Someone message
   }
 });
 
-client.login('your-token-goes-here'); //Paste Your Bot Token
+client.login('NzgzMzQyODIzMDUxMjMxMjYy.X8ZW2g.roECHdZwMAq5eQJMyH_CFYVlFZ0'); //Paste Your Bot Token
 
