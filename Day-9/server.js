@@ -70,4 +70,4 @@ client.on("guildMemberAdd", (member) => {
 
 
 
-client.login(token)
+client.login(NzgzMzQyODIzMDUxMjMxMjYy.X8ZW2g.roECHdZwMAq5eQJMyH_CFYVlFZ0)
